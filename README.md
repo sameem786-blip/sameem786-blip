@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sameem Abbas and I'm a Software Engineerr, from Karachi, Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Sameem Abbas and I'm a Software Engineer, from Karachi, Pakistan</h2>
 
 ###
 
